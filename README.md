@@ -1,6 +1,7 @@
 # WeatherApp
 
 Простое веб-приложение для отображения текущей погоды с использованием HTML, CSS и JavaScript. Данные о погоде предоставлены [OpenWeatherMap API](https://openweathermap.org/api).
+## [GitHub Pages](https://jetskici00.github.io/weatherApp/)
 
 ## О проекте
 
